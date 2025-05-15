@@ -24,7 +24,6 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuckR4y&show_icons=true&theme=midnight-purple&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckR4y&layout=compact&theme=midnight-purple&count_private=true">
-  test
 </div>
 
 
